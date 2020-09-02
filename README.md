@@ -1,12 +1,12 @@
 # python-bookmark-player
 
-## install
+#install
 - python 3.6
 - adblock crx
 - chrome driver
 - html bookmark file from chrome
 
-##bugs
+#bugs
 - soundcloud crashing
 - slow repsponse to enter key
 
