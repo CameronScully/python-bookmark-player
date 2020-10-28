@@ -2,6 +2,8 @@
 
 #install
 - python 3.6
+  - pip install selenium
+  - pip install numpy
 - adblock crx
 - chrome driver
 - html bookmark file from chrome
