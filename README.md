@@ -4,6 +4,7 @@
 - python 3.6
   - pip install selenium
   - pip install numpy
+  - pip install colorama
 - adblock crx
 - chrome driver
 - html bookmark file from chrome
